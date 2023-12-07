@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lSHtsN+2UJDvc329+d6qOfWgaeZ7byyuq3cTtADdSpI=",
+  "Source": "dotnetCancellationToken",
+  "BasePath": "_content/dotnetCancellationToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
